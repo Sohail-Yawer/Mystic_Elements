@@ -1,13 +1,13 @@
-# Team Tashreef
-## CSCI 526: Main Unity Game
+# Mystic Elements
+## This game was made as a part of a group for my CSCI 526 course(Advanced Mobile Games)
 
-### Our game is a 2D platformer where the player must strategically engage with in-game elements of air, water, fire and earth. By choosing different elements you can interact with your environment in different interesting ways.
+### Logline: Our game is a 2D platformer where the player must strategically engage with in-game elements of air, water, fire and earth. By choosing different elements you can interact with your environment in different interesting ways.
 
 # Game Links
-
-- ## [Alpha](https://nivedit24.github.io/csci526Tashreef/alpha/)
-- ## [Beta](https://nivedit24.github.io/csci526Tashreef/beta/)
-- ## [Gold](https://nivedit24.github.io/csci526Tashreef/gold/)
+### The game was made in stages, where alpha version involved a basic outline of the game, beta version contains the game with fully developed mechanics without art. Gold is the final version of game. 
+- ## [Alpha](https://sohail-yawer.github.io/Mystic_Elements/alpha/)
+- ## [Beta](https://sohail-yawer.github.io/Mystic_Elements/beta/)
+- ## [Gold](https://sohail-yawer.github.io/Mystic_Elements/gold/)
 
 In this 2D platformer, players find themselves in a world infused with elemental magic. As the protagonist, you possess a unique ability to harness and control the forces of air, fire, ice and earth. Each element grants you specific powers, enabling you to manipulate your environment and overcome formidable obstacles.
 
